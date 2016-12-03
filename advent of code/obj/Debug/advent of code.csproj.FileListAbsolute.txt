@@ -1,0 +1,6 @@
+J:\Projects\advent of code\advent of code\bin\Debug\advent of code.exe.config
+J:\Projects\advent of code\advent of code\bin\Debug\advent of code.exe
+J:\Projects\advent of code\advent of code\bin\Debug\advent of code.pdb
+J:\Projects\advent of code\advent of code\obj\Debug\advent of code.csprojResolveAssemblyReference.cache
+J:\Projects\advent of code\advent of code\obj\Debug\advent of code.exe
+J:\Projects\advent of code\advent of code\obj\Debug\advent of code.pdb
