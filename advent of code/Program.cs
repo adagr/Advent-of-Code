@@ -19,7 +19,10 @@ namespace advent_of_code
             //day4.part2();
             //day5.part1();
             //day5.part2();
-            day6.part2();
+            //day6.part1();
+            //day6.part2();
+            //day7.part1();
+            day7.part2();
         }
     }
 }
